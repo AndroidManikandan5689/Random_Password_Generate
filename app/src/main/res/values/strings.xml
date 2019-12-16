@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomPasswordGenerate</string>
+    <string name="generate_password">Generate Password</string>
+</resources>
